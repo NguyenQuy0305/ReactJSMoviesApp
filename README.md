@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Link Demo on Netlify:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://imovies-reactjs-demo.netlify.app/
 
 ## Available Scripts
 
